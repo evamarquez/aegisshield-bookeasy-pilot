@@ -1,5 +1,11 @@
 # Case 01 — Cybersecurity Platform Modernization
 
+## Methodology
+
+This case uses a hybrid approach. The plan sets the scope, risks, approvals, dates, and release decisions. The technical work is delivered in small steps so it can be built, tested, and corrected before the next step.
+
+The live GitHub evidence is in the separate [AegisShield BookEasy Pilot repository](https://github.com/evamarquez/aegisshield-bookeasy-pilot), with boards for week 2, week 8, and week 13.
+
 > Simulated portfolio case study. This is a fictional project created for learning and portfolio demonstration; it is not presented as professional client experience.
 
 ## Case overview

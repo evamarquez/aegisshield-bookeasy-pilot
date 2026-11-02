@@ -8,6 +8,15 @@ Authorize a controlled modernization increment for Aegis Security Cloud and vali
 
 Move selected runtime and database components toward supported versions, improve connector reliability, make delivery failures visible, and preserve existing customer-facing behavior.
 
+## Methodology
+
+This project uses a hybrid approach:
+
+- A planned approach for scope, risks, approvals, dates, and release decisions.
+- Iterative delivery for building, testing, learning, and correcting the work in small steps.
+
+In simple terms, we agree on the direction and controls first, then deliver and test the technical work in stages.
+
 ## Scope
 
 Included: runtime and dependencies, PostgreSQL migration rehearsal, BookEasy retry and duplicate protection, monitoring, testing, pilot, release, rollback, and handover.

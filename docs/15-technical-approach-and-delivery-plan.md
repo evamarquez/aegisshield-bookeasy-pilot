@@ -6,6 +6,10 @@ BookEasy systems -> connector -> AegisShield event API -> PostgreSQL -> existing
 
 No separate queue is assumed in this case. Monitoring tracks request, retry, duplicate, and delivery-failure status directly.
 
+## Methodology used
+
+This project uses a hybrid approach. The team uses a planned approach for scope, risks, approvals, dates, and release decisions. The technical work is delivered in small steps so the team can build, test, find issues, and correct them before moving forward.
+
 ## Proposed changes
 
 | Area | Approach | Owner |

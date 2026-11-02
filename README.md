@@ -26,17 +26,17 @@ In plain words: agree on the direction first, then build, test, and improve the 
 
 The project board is connected to this repository:
 
-- [GitHub Projects board](https://github.com/users/evamarquez/projects)
+- [Week 2 - planning board](https://github.com/users/evamarquez/projects/3)
+- [Week 8 - issue board](https://github.com/users/evamarquez/projects/4)
+- [Week 13 - close-out board](https://github.com/users/evamarquez/projects/5)
 - [Repository issues](https://github.com/evamarquez/aegisshield-bookeasy-pilot/issues)
 
-The board views are fictional execution snapshots for a portfolio case. They do not claim that this was a real customer project.
+The board views are fictional execution snapshots for a portfolio case. The repository issues and project cards are real GitHub records created to demonstrate the workflow; they do not claim that this was a real customer project.
 
 ## Board snapshots
 
 - [Week 2 - planning complete](screenshots/github-board-week-02.png)
 - [Week 8 - defect found](screenshots/github-board-week-08.png)
-- [Week 9 - schedule decision pending](screenshots/github-board-week-09.png)
-- [Week 10 - defect closed](screenshots/github-board-week-10.png)
 - [Week 13 - handover complete](screenshots/github-board-week-13.png)
 
 ## Printable case
