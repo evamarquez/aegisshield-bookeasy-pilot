@@ -41,6 +41,7 @@ AegisShield has not completed a major platform modernization in approximately fi
 9a. [GitHub board - week 2](github-board-week-02.md)
 9b. [GitHub board - week 9](github-board-week-09.md)
 9c. [GitHub board - week 10](github-board-week-10.md)
+9d. [Simulated validation scenarios](28-simulated-scenarios.md)
 10. [Project charter](06-project-charter.md)
 11. [Dependency and integration map](07-dependency-and-integration-map.md)
 12. [Risk register and RAID log](08-risk-register-and-raid-log.md)

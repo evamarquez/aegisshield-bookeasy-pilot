@@ -30,6 +30,7 @@ The project board is connected to this repository:
 - [Week 8 - issue board](https://github.com/users/evamarquez/projects/4)
 - [Week 13 - close-out board](https://github.com/users/evamarquez/projects/5)
 - [Repository issues](https://github.com/evamarquez/aegisshield-bookeasy-pilot/issues)
+- [Simulated validation scenarios](docs/28-simulated-scenarios.md)
 
 The board views are fictional execution snapshots for a portfolio case. The repository issues and project cards are real GitHub records created to demonstrate the workflow; they do not claim that this was a real customer project.
 
